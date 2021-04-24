@@ -1,0 +1,10 @@
+C:\Users\Жозеф Веншенесс\Documents\92-пг\Проектирование и архитектура программных систем\tchat\client\bin\Debug\client.exe.config
+C:\Users\Жозеф Веншенесс\Documents\92-пг\Проектирование и архитектура программных систем\tchat\client\bin\Debug\client.exe
+C:\Users\Жозеф Веншенесс\Documents\92-пг\Проектирование и архитектура программных систем\tchat\client\bin\Debug\client.pdb
+C:\Users\Жозеф Веншенесс\Documents\92-пг\Проектирование и архитектура программных систем\tchat\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\Жозеф Веншенесс\Documents\92-пг\Проектирование и архитектура программных систем\tchat\client\obj\Debug\client.Form1.resources
+C:\Users\Жозеф Веншенесс\Documents\92-пг\Проектирование и архитектура программных систем\tchat\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Жозеф Веншенесс\Documents\92-пг\Проектирование и архитектура программных систем\tchat\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Жозеф Веншенесс\Documents\92-пг\Проектирование и архитектура программных систем\tchat\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Жозеф Веншенесс\Documents\92-пг\Проектирование и архитектура программных систем\tchat\client\obj\Debug\client.exe
+C:\Users\Жозеф Веншенесс\Documents\92-пг\Проектирование и архитектура программных систем\tchat\client\obj\Debug\client.pdb
